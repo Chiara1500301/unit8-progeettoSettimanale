@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  background-color: aliceblue;
+  width: 100%;
+  max-width: 100%;
+}
+.weather{
+  color: rgb(120, 120, 237);
+  font-size: 1.5em;
+}
+#h2{
+  color: rgb(114, 38, 226);
+}
+h1{
+  color:rgb(233, 91, 20)
+}
